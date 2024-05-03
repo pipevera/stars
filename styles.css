@@ -3,7 +3,7 @@ body {
 }
 
 .container {
-   background-image: linear-gradient(#051327, #000);
+   background-image: linear-gradient(#000, #051327 );
    position: fixed;
    inset: 0;
    width: 100%;
