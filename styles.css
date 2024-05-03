@@ -19,6 +19,7 @@ body {
    top:0;
    left: 0;
    animation: moveStars var(--duration) linear infinite;
+   border-radius: 100%;
 }
 
 .text {
